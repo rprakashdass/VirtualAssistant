@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T15:57:32.589Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="A7ZN-iqTx2IpSScCl8qm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T16:09:19.324Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="E7L_z9DUIIlISpSKOLVC" version="21.8.2" type="github">
   <diagram name="Page-1" id="6rESYNQrVvNPVVh4we3a">
-    <mxGraphModel>
+    <mxGraphModel dx="835" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="109bpNcCIXM0sntG9Nd1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-1" target="109bpNcCIXM0sntG9Nd1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-3" target="109bpNcCIXM0sntG9Nd1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-3" value="User Registration and KYC Verification" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-5" target="109bpNcCIXM0sntG9Nd1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-5" value="KYC Verification Successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-8" target="109bpNcCIXM0sntG9Nd1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-8" value="Access Legal Information through Threads like Feed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-12" target="109bpNcCIXM0sntG9Nd1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-12" value="Legal Query Resolution" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-14" target="109bpNcCIXM0sntG9Nd1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-14" value="Voice-Assisted Navigation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="450" as="sourcePoint" />
+            <mxPoint x="170" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="470" />
+              <mxPoint x="260" y="470" />
+              <mxPoint x="260" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-16" target="109bpNcCIXM0sntG9Nd1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-16" value=" Regional Language Selection" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-18" value="Collaboration and Community Engagement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-20" target="109bpNcCIXM0sntG9Nd1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109bpNcCIXM0sntG9Nd1-20" target="109bpNcCIXM0sntG9Nd1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-20" value=" Legal Education and Innovation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-22" value="Event Participation and Meetings" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-24" value="STOP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="109bpNcCIXM0sntG9Nd1-27" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
